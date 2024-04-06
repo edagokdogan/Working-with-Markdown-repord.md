@@ -23,8 +23,10 @@ The audience is anyone who reads The New York Times and who is interested in job
 **4.How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
 
 It could be interpreted based on looking at the data visualization represented by Democratic viewpoint that the unemployment rate is decreasing since the peak. It could be also interpreted by looking at the data visualization of Republican viewpoint that people are suffering from unemployment for a long time. This could lead audience to interpret the data according to the issue presented, which is in two different ways in this scenario
-[The textbook page link] (https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
 
 **5.How, if at all, does the data visualization represent power or systems?**
 
 The data visualizations represent power since it tries to persuade audience into one frame by putting the same data into different visual design. 
+
+[The textbook page link] (https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
+
