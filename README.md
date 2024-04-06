@@ -10,21 +10,16 @@ The two visualizations illustrate the core concept of framing effects, which def
 > “The constraints of truth leave a very wide space for interpretation.”  - _Stray_
 ## Data Viz Biography 
 **1. Who or what institution produced the visualization? (Hint: refer to "Figure Credits")**
-
 Mike Bostock, Shan Carter, Amanda Cox, and Kevin Quealy produced the visualization.
 
 **2. When was it produced?**
-
 It was produced in 2012.
 
 **3. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
-
 The audience is anyone who reads The New York Times and who is interested in job reports with respect to political parties in the United States
 
 **4.How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
-
 It could be interpreted based on looking at the data visualization represented by Democratic viewpoint that the unemployment rate is decreasing since the peak. It could be also interpreted by looking at the data visualization of Republican viewpoint that people are suffering from unemployment for a long time. This could lead audience to interpret the data according to the issue presented, which is in two different ways in this scenario
 
 **5.How, if at all, does the data visualization represent power or systems?**
-
 The data visualizations represent power since it tries to persuade audience into one frame by putting the same data into different visual design. 
