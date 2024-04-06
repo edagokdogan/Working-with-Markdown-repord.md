@@ -10,9 +10,11 @@ The two visualizations illustrate the core concept of framing effects, which def
 > “The constraints of truth leave a very wide space for interpretation.”  - _Stray_
 ## Data Viz Biography 
 **1. Who or what institution produced the visualization? (Hint: refer to "Figure Credits")**
+
 Mike Bostock, Shan Carter, Amanda Cox, and Kevin Quealy produced the visualization.
 
 **2. When was it produced?**
+
 It was produced in 2012.
 
 **3. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
