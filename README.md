@@ -1,2 +1,5 @@
+
 # Part II: Working with Markdown
-Assignment 1: Part II
+## By Eda Gokdogan
+*April 5th 2024*
+## Data Viz Summary 
