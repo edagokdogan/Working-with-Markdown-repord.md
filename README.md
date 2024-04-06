@@ -1,6 +1,6 @@
 
 # Part II: Working with Markdown :smile:
-## By Eda Gokdogan
+## By [Eda Gokdogan]
 *April 5th 2024*
 ## Data Viz Summary 
 ![data visualization 1  jpeg](https://github.com/edagokdogan/Working-with-Markdown-repord.md/assets/165616757/8a8eb04f-f52c-4bf4-9a9e-50f2d2e98d00)
